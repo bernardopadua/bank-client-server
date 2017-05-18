@@ -1,5 +1,7 @@
 # Bank Client<>Server
 
+No big implementation, just coding to see Socket library in action.
+
 A repository to practice coding and help the community of coders. If there are any questions, just let me know.
 
 I make use only of embed libraries. 
